@@ -1,1 +1,1 @@
-Contact me at https://github.com/johnbintz-tidelift/wowow
+Contact me at https://tidelift.com/security
